@@ -1,5 +1,5 @@
 global.DeveloperMode = 'false' //true Or false
-global.linkGC = ['https://chat.whatsapp.com/KYLDbeDJ8HDELk5SieKTsG' , 'https://chat.whatsapp.com/FGh7ASBOQTtHXI2cX2OKrC' , 'https://chat.whatsapp.com/HZfAEm65QZD5Rujsp0DUPm' , 'https://chat.whatsapp.com/FwEUGxkvZD85fIIp0gKyFC' , 'https://chat.whatsapp.com/KYLDbeDJ8HDELk5SieKTsG'] // No tiene utilidad 
+global.linkGC = ['' , '' , '' , '' , ''] // No tiene utilidad 
 global.channelYT = ['https://www.youtube.com/channel/UCSTDMKjbm-E'] // No tiene utilidad
 global.owner = ['50375901276' , '50372258955'] // Cambia los numeros por tu o tus numeros a los cuales te comtactaran y gestionaras el Bot
 global.mods = ['50372258955' , '59169105200'] // No tiene utilidad
